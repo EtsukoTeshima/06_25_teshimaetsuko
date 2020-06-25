@@ -1,0 +1,20 @@
+.PC_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #aaa;
+  padding: 10px;
+}
+.PC_header .logo {
+  background: #5555dd;
+  color: #aaa;
+}
+.PC_header ul {
+  background: #dd5;
+}
+.PC_header ul li {
+  list-style: none;
+}
+.PC_header ul li a {
+  text-decoration: none;
+}
