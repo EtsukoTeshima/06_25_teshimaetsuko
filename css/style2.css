@@ -1,0 +1,62 @@
+body {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.PC_header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #dd5;
+    padding: 10px;
+}
+.PC_header .logo {
+    background: #dd5;
+    color: #dd5;
+}
+.PC_header ul {
+    background: #dd5;
+}
+.PC_header ul li {
+    list-style: none;
+}
+.PC_header ul li a {
+    text-decoration: none;
+}
+.headertitle {
+    font-size: 30px;
+}
+
+.mainvisual {
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+textarea {
+    resize: none;
+    width: 500px;
+    height: 300px;
+}
+
+.howto2 {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 0px;
+}
+
+th,td {
+    border: solid 1px;
+    padding: 10px;
+}
+
+td {
+    width:  170px;              /* 幅指定 */
+    height: 30px;               /* 高さ指定 */
+    text-align:  center; 
+}
+
+table {
+    border-collapse: collapse; /* セルの線を重ねる */
+}

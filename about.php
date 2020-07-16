@@ -17,8 +17,8 @@
     
     <ul>
         <li><a href="../index.html">トップページ</a></li>
-        <li><a href="about.html">アバウトページ</a></li>
-        <li><a href="company.html">会社概要ページ</a></li>
+        <li><a href="about.html">レシピ検索</a></li>
+        <li><a href="company.html">レシピ詳細</a></li>
     </ul>
 </body>
 

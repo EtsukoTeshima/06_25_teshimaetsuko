@@ -2,12 +2,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #aaa;
+  background: blue;
   padding: 10px;
 }
 .PC_header .logo {
-  background: #5555dd;
-  color: #aaa;
+  background: #dd5;
+  color: #dd5;
 }
 .PC_header ul {
   background: #dd5;
@@ -17,4 +17,17 @@
 }
 .PC_header ul li a {
   text-decoration: none;
+}
+
+.mainvisual {
+  width: 960px;
+}
+
+.headertitle {
+  font-size: 30px;
+}
+
+.textarea-wrap {
+  max-width: 500px;
+  background-color: blue;
 }

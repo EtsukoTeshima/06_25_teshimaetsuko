@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #dd5;
+    background:blue;
     padding: 10px;
     .logo {
         background: #dd5;
@@ -20,3 +20,16 @@
         }
     }
 }
+
+.mainvisual{
+    width: 960px;
+}
+
+.headertitle{
+    font-size: 30px;
+}
+
+.textarea-wrap{
+    max-width: 500px;
+    background-color: blue;
+} 
